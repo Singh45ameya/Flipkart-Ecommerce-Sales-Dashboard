@@ -1,12 +1,12 @@
-Flipkart-Ecommerce-Sales-Dashboard 
-About 
+**Flipkart-Ecommerce-Sales-Dashboard 
+**About 
 Dive into Power BI with my beginner's project! This project showcases my learnings in creating stunning visualizations and gaining insights from data effortlessly.
 
-Objectives
+**Objectives
 
 Help Flipkart create a dashboard to track and analyze their online sales across India.
 
-Project Learnings
+**Project Learnings
 
 Created an interactive dashboard to track and analyze online sales data.
 Used complex parameters to drill down in worksheets and customized them using filters and slicers.
