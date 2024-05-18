@@ -1,1 +1,2 @@
 *.pbix linguist-language=PowerBI
+# This line ensures GitHub recognizes PBIX files as Power BI
